@@ -25,9 +25,10 @@ Others:
 
 # Source Code
 
-Source codes are listed below for THUBA DAO hackathon submission. All copyright reserved.
+Technology used: Solidity, thegraph, next.js, moralis, wagmi, IPFS/FILECOIN
+
+Source codes are listed below for hackathon submission. All copyright reserved.
 
 - FrontEnd: <https://github.com/sisyphusprotocol/tracker3-fe>
 - Contract: <https://github.com/sisyphusprotocol/contracts>
 - Subgraph: <https://github.com/sisyphusprotocol/sisyphus-v1-subgraph>
-- BackEnd: No backend util now
