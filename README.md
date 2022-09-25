@@ -6,7 +6,7 @@ It was like a habit tracker in Web3, but it differs because of it's blockchain t
 
 # Demo
 
-Visit our demo video at [Youtube](https://www.youtube.com/watch?v=py4XwYZkKO0)
+Visit our demo video at [Youtube](https://www.youtube.com/watch?v=M0hF_984ENA)
 
 ## Try the demo
 
